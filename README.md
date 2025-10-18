@@ -1,9 +1,9 @@
 # learningC
 a collection of my first few minor projects in C
 
-to compile programs run,\n
+to compile programs run,
 **gcc \<NAME\>.c -o \<NAME\>.exe -static -lwinpthread -lm**
-\ndepends on GMP
+depends on GMP
 
 if on windows find website and install,
 if on linux you know how,
